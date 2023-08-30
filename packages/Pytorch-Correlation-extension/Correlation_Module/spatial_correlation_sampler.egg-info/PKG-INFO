@@ -5,8 +5,6 @@ Summary: Correlation module for pytorch
 Home-page: https://github.com/ClementPinard/Pytorch-Correlation-extension
 Author: Clément Pinard
 Author-email: clement.pinard@ensta-paristech.fr
-License: UNKNOWN
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: POSIX :: Linux
@@ -161,5 +159,3 @@ out = correlation_sampler(input1, input2)
  |                default | E5-2630 v3 @ 2.40GHz | backward |  282.641 ms |  294.194 ms |
  |               FlowNetC | E5-2630 v3 @ 2.40GHz |  forward |  2.138 s |  2.144 s |
  |               FlowNetC | E5-2630 v3 @ 2.40GHz | backward | 7.006 s | 7.075 s |
-
-
